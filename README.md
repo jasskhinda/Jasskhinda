@@ -17,6 +17,23 @@ Tools: Figma · Adobe XD · SEO · Google Ads · Git · Postman . Hubspot . Canv
 
 🚀 Created mobile apps with React Native & Firebase
 
+🔹 Compassionate Caregivers – compassionatecaregivershc.com
+
+🔹 Compassionate Care Transportation – compassionatecaretransportation.com
+
+🔹 Bugz Bug Me – bugzbugme.com
+
+🔹 IVita Boost – ivitaboost.com
+
+🔹 KFresh – kfresh.ca
+
+🔹 Fenning Farms – fenningfarms.com
+
+🔹 Statement Roofing – statementroofing.com
+
+🔹 More Projects – jasskhinda.com
+
+
 🚀 What I’m Doing Now
 Developing full-stack apps for medical and transport clients
 

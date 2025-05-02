@@ -1,4 +1,5 @@
 👋 Hi, I'm Jass Khinda – Full-Stack & Mobile App Developer
+
 I'm a full-stack developer with 8+ years of experience building over 200 websites and several cross-platform mobile apps. I help startups and local businesses turn ideas into scalable digital products.
 
 🛠️ Tech Stack

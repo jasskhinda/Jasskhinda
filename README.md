@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Jass Khinda – Full-Stack & Mobile App Developer
+I'm a full-stack developer with 8+ years of experience building over 200 websites and several cross-platform mobile apps. I help startups and local businesses turn ideas into scalable digital products.
 
-<!--
-**jasskhinda/Jasskhinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Frontend: React · React Native · JavaScript · HTML · CSS · Tailwind . Bootstrap
+Backend: Node.js · Django · Python · Golang · Firebase · REST APIs
+Cloud & DevOps: AWS · Google Cloud · Docker · GitHub Actions
+CMS & eCommerce: WordPress · Shopify · WooCommerce
+Tools: Figma · Adobe XD · SEO · Google Ads · Git · Postman . Hubspot . Canva
 
-Here are some ideas to get you started:
+🎓 Education & Highlights
+🧑‍🎓 Computer Software and Database Development – Loyalist College, Toronto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Bachelor Of Computer Application (BCA) Degree – Toronto
+
+✅ Built 200+ websites and apps
+
+🚀 Created mobile apps with React Native & Firebase
+
+🚀 What I’m Doing Now
+Developing full-stack apps for medical and transport clients
+
+Managing SEO & Ads for local businesses in Canada and US
+
+📫 Connect With Me
+🌐 jasskhinda.com
+📧 info@jasskhinda.com
+
+⚡ Fun Fact
+I love building tools that save time, grow businesses, and make life easier.

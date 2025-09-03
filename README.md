@@ -3,8 +3,8 @@
 I'm a full-stack developer with 8+ years of experience building over 200 websites and several cross-platform mobile apps. I help startups and local businesses turn ideas into scalable digital products.
 
 🛠️ Tech Stack
-Frontend: React · React Native · JavaScript · HTML · CSS · Tailwind . Bootstrap
-Backend: Node.js · Django · Python · Golang · Firebase · REST APIs
+Frontend: Next.js · React · React Native · JavaScript · HTML · CSS · Tailwind . Bootstrap
+Backend: Supabase · Node.js · Firebase · REST APIs
 Cloud & DevOps: AWS · Google Cloud · Docker · GitHub Actions
 CMS & eCommerce: WordPress · Shopify · WooCommerce
 Tools: Figma · Adobe XD · SEO · Google Ads · Git · Postman . Hubspot . Canva
@@ -22,9 +22,9 @@ Tools: Figma · Adobe XD · SEO · Google Ads · Git · Postman . Hubspot . Canv
 
 🔹 Compassionate Care Transportation – compassionatecaretransportation.com
 
-🔹 Bugz Bug Me – bugzbugme.com
+🔹 Facility APP facility.compassionatecaretransportation.com
 
-🔹 IVita Boost – ivitaboost.com
+🔹 Dispatcher App dispatch.compassionatecaretransportation.com
 
 🔹 KFresh – kfresh.ca
 

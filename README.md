@@ -28,10 +28,13 @@ Full Stack Web Apps  (Javascript, Typescript, Reactjs, Nextjs, Supabase, MongoDB
 🔹 Driver App driver.compassionatecaretransportation.com
 🔹 Admin App admin.compassionatecaretransportation.com
 🔹 Compassionate Caregivers – compassionatecaregivershc.com
+🔹 KFresh – kfresh.ca
 
 
 Wordpress, Shopify
-🔹 KFresh – kfresh.ca
+🔹 themug.com
+🔹 compassionatecaretransportation.com
+🔹 compassionatecaregivershc.com
 🔹 Fenning Farms – fenningfarms.com
 🔹 Statement Roofing – statementroofing.com
 

@@ -1,8 +1,10 @@
 👋 Hi, I'm Jass Khinda — One-Man Software Agency
 
 Full-stack web and mobile developer with 8+ years of experience. I've built 17+ production apps — all solo — live on the App Store and Google Play right now. Download my apps and see for yourself.
+
 🔥 My Biggest Project
 Built the entire tech stack for a 200+ employee US healthcare company. 5-app healthcare transportation system (think Uber for patients) — built in 2 months after other dev teams failed for 3 years.
+
 📱 Apple App Store
 🚗 CCT Driver Portal — https://apps.apple.com/ca/app/cct-driver-portal/id6756082956
 📅 CCT Booking Portal — https://apps.apple.com/ca/app/cct-booking-portal/id6755318073
@@ -21,6 +23,8 @@ Built the entire tech stack for a 200+ employee US healthcare company. 5-app hea
 📚 Compassionate Caregivers Training App — https://play.google.com/store/apps/details?id=com.compassionate.caregiver
 👤 HappyInLine Customer App — https://play.google.com/store/apps/details?id=com.happyinline.app
 💼 HappyInLine Business App — https://play.google.com/store/apps/details?id=com.happyinline.provider
+
+
 💻 GitHub Repos
 CCT Driver Mobile — https://github.com/jasskhinda/driver_mobile
 CCT Booking Mobile — https://github.com/jasskhinda/CCT_booking_IOS_ANDROID
@@ -33,6 +37,8 @@ AnyTradesman Client — https://github.com/jasskhinda/AnyTradesman.com
 AnyTradesman Admin — https://github.com/jasskhinda/admin-AnyTradesman.com
 KFresh Store — https://github.com/jasskhinda/kfresh-store
 KFresh Admin — https://github.com/jasskhinda/kfresh-admin
+
+
 🌐 Live Web Apps
 CCT Facility Portal — https://facility.compassionatecaretransportation.com
 CCT Booking Portal — https://book.compassionatecaretransportation.com
@@ -43,19 +49,25 @@ AnyTradesman — https://anytradesman.com
 AnyTradesman Admin — https://admin.anytradesman.com
 KFresh Store — https://www.kfresh.ca
 KFresh Dashboard — https://www.dashboard.kfresh.ca
+
+
 🛠️ Tech Stack
 Languages: JavaScript, TypeScript, Python, PHP, Go, Dart, HTML/CSS
 Frontend: React, Next.js, Tailwind CSS, Bootstrap
 Mobile: React Native, Flutter, iOS & Android deployment
 Backend: Node.js, Supabase, Firebase, PostgreSQL, MongoDB, REST APIs
 Tools: Git/GitHub, Docker, Vercel, VS Code, AI-enhanced development
+
+
 🎓 Education
 🧑‍🎓 Computer Software & Database Development — Loyalist College, Toronto
 🎓 B.C.A (Bachelor of Computer Applications)
 🌐 200+ WordPress & Shopify Sites
 compassionatecaregivershc.com — https://compassionatecaregivershc.com
 compassionatecaretransportation.com — https://compassionatecaretransportation.com
+
 More at jasskhinda.com — https://jasskhinda.com
+
 📫 Connect With Me
 🌐 jasskhinda.com — https://jasskhinda.com
 📧 info@jasskhinda.com

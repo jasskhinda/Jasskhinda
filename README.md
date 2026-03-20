@@ -1,55 +1,67 @@
-👋 Hi, I'm Jass Khinda – Full-Stack & Mobile App Developer
+👋 Hi, I'm Jass Khinda — One-Man Software Agency
+Full-stack web and mobile developer with 8+ years of experience. I've built 17+ production apps — all solo — live on the App Store and Google Play right now. Download my apps and see for yourself.
+🔥 My Biggest Project
+Built the entire tech stack for a 200+ employee US healthcare company. 5-app healthcare transportation system (think Uber for patients) — built in 2 months after other dev teams failed for 3 years.
+📱 Apple App Store
 
-I'm a full-stack developer mobile and web apps, with 8+ years of experience building over 200 websites and several cross-platform mobile apps. I help startups and local businesses turn ideas into scalable digital products.
+🚗 CCT Driver Portal
+📅 CCT Booking Portal
+📡 CCT Dispatcher Portal
+🏥 CCT Facility Portal
+⚙️ CCT Admin Portal
+📚 Compassionate Caregivers Training App
+👤 HappyInLine — Customer App
+💼 HappyInLine — Business App
+
+🤖 Google Play Store
+
+🚗 CCT Driver Portal
+📅 CCT Booking Portal
+📡 CCT Dispatcher Portal
+🏥 CCT Facility Portal
+⚙️ CCT Admin Portal
+📚 Compassionate Caregivers Training App
+👤 HappyInLine — Customer App
+💼 HappyInLine — Business App
+
+💻 GitHub Repos
+
+CCT Driver Mobile
+CCT Booking Mobile
+CCT Dispatcher Mobile
+CCT Facility Mobile
+CCT Admin Mobile
+Compassionate Caregivers App
+HappyInLine (Customer + Business)
+AnyTradesman — Client
+AnyTradesman — Admin
+KFresh — Store
+KFresh — Admin
+
+🌐 Live Web Apps
+
+CCT Facility Portal
+CCT Booking Portal
+CCT Dispatcher
+CCT Driver Portal
+CCT Admin Panel
+AnyTradesman | Admin
+KFresh Store | Dashboard
 
 🛠️ Tech Stack
-Frontend: Next.js · React · React Native · JavaScript · HTML · CSS · Tailwind . Bootstrap
-Backend: Supabase · Node.js · Firebase · REST APIs
-Cloud & DevOps: AWS · Google Cloud · Docker · GitHub Actions
-CMS & eCommerce: WordPress · Shopify · WooCommerce
-Tools: Figma · Adobe XD · SEO · Google Ads · Git · Postman . Hubspot . Canva
+Languages: JavaScript, TypeScript, Python, PHP, Go, Dart, HTML/CSS
+Frontend: React, Next.js, Tailwind CSS, Bootstrap
+Mobile: React Native, Flutter, iOS & Android deployment
+Backend: Node.js, Supabase, Firebase, PostgreSQL, MongoDB, REST APIs
+Tools: Git/GitHub, Docker, Vercel, VS Code, AI-enhanced development
+🎓 Education
+🧑‍🎓 Computer Software & Database Development — Loyalist College, Toronto
+🎓 B.C.A (Bachelor of Computer Applications)
+🌐 200+ WordPress & Shopify Sites
 
-🎓 Education & Highlights
-🧑‍🎓 Computer Software and Database Development – Loyalist College, Toronto
-
-🎓 Bachelor Of Computer Application (BCA) Degree – Toronto
-✅ Built 200+ websites and apps
-
-Full Stack Live Mobile apps - (Javascript, Typescript, Flotter, React Native, Supabase, MongoDB, Firebase, NodeJS)
-Compassionate Caregivers App Android - https://play.google.com/store/apps/details?id=com.compassionate.caregiver&pcampaignid=web_share
-Compassionate Caregivers App Android Ios - https://apps.apple.com/us/app/compassionate-caregivers-app/id6751550773
-
-Full Stack Web Apps  (Javascript, Typescript, Reactjs, Nextjs, Supabase, MongoDB, Firebase, Nodejs)
-
-🔹 Compassionate Care Transportation – compassionatecaretransportation.com
-🔹 Facility APP facility.compassionatecaretransportation.com
-🔹 Dispatcher App dispatch.compassionatecaretransportation.com
-🔹 Booking App book.compassionatecaretransportation.com
-🔹 Driver App driver.compassionatecaretransportation.com
-🔹 Admin App admin.compassionatecaretransportation.com
-🔹 Compassionate Caregivers – compassionatecaregivershc.com
-🔹 KFresh – kfresh.ca
-
-
-Wordpress, Shopify
-🔹 themug.com
-🔹 compassionatecaretransportation.com
-🔹 compassionatecaregivershc.com
-🔹 Fenning Farms – fenningfarms.com
-🔹 Statement Roofing – statementroofing.com
-
-
-🔹 More Projects – jasskhinda.com
-
-
-🚀 What I’m Doing Now
-Developing full-stack apps for medical and transport clients
-
-Managing SEO & Ads for local businesses in Canada and US
+compassionatecaregivershc.com
+compassionatecaretransportation.com
+More at jasskhinda.com
 
 📫 Connect With Me
-🌐 jasskhinda.com
-📧 info@jasskhinda.com
-
-⚡ Fun Fact
-I love building tools that save time, grow businesses, and make life easier.
+🌐 jasskhinda.com 📧 info@jasskhinda.com 💼 LinkedIn
